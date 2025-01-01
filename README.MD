@@ -52,20 +52,20 @@ Before running this project, ensure you have:
    ```bash
    git clone https://github.com/yourusername/opencart-add-to-cart-automation.git
 
-2. # Import the project into Eclipse:
+2. ## Import the project into Eclipse:
 
 Open Eclipse IDE.
 Click on File > Import.
 Select Existing Maven Projects.
 Browse to the project directory and click Finish.
 
-3. # How to Run the Project
+3. ## How to Run the Project
 Open Eclipse IDE.
 Locate the add-to-cart-master.xml file in the test folder.
 Right-click on add-to-cart-master.xml.
 Select Run As > TestNG Suite.
 
-4. # Output
+4. ## Output
 Extent Report: Found in the reports directory.
 Screenshots: Stored in the screenshots folder for:
 The searched product.
