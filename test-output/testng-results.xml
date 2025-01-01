@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-01T14:15:47 IST" name="Suite" finished-at="2025-01-01T14:16:05 IST" duration-ms="17418">
+    <groups>
+    </groups>
+    <test started-at="2025-01-01T14:15:47 IST" name="Test" finished-at="2025-01-01T14:16:05 IST" duration-ms="17418">
+      <class name="testCases.TC_001Product_add_to_cart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_001Product_add_to_cart@4b40f651]" started-at="2025-01-01T14:15:48 IST" name="setup" finished-at="2025-01-01T14:15:57 IST" duration-ms="8847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addToCartProducts()[pri:0, instance:testCases.TC_001Product_add_to_cart@4b40f651]" started-at="2025-01-01T14:15:57 IST" name="addToCartProducts" finished-at="2025-01-01T14:16:01 IST" duration-ms="4497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartProducts -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_001Product_add_to_cart@4b40f651]" started-at="2025-01-01T14:16:01 IST" name="teardown" finished-at="2025-01-01T14:16:05 IST" duration-ms="3473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC_001Product_add_to_cart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
